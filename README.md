@@ -18,8 +18,8 @@ python ./src/git-analyzer.py --action create_pipelines \
 --token=xCMUhegsQY_Mb2yXdvUz --group_id=2070
 
 ```
-![example of clone]()
-
+![example of clone](https://github.com/gaopgx/see-dashboard/blob/master/example-of-usage-clone.PNG?raw=true)
+![example of create_pipeline]()
 
 ### Command line options
 ##todo
